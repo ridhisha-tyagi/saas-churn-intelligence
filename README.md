@@ -114,17 +114,17 @@ Screenshots
 ## Screenshots
 
 ### Home
-![Home View](dashboard/screenshots/home.png)
+![Home View](dashboard/screenshots/Home.png)
 
 ### Final Product Insights
 Key views from the final product insights module, showing feature-level diagnostics and recommended product actions.
-![Final Product Insight](dashboard/screenshots/final_product_insights.png)
-![Final Product Insight 1](dashboard/screenshots/final_product_insights_1.png)
+![Final Product Insight](dashboard/screenshots/final_product_insight.png)
+![Final Product Insight 1](dashboard/screenshots/final_product_insight_1.png)
 <details>
 <summary>Additional Product Insight Views</summary>
-![Final Product Insight 2](dashboard/screenshots/final_product_insights_2.png)
-![Final Product Insight 3](dashboard/screenshots/final_product_insights_3.png)
-![Final Product Insight 4](dashboard/screenshots/final_product_insights_4.png)
+![Final Product Insight 2](dashboard/screenshots/final_product_insight_2.png)
+![Final Product Insight 3](dashboard/screenshots/final_product_insight_3.png)
+![Final Product Insight 4](dashboard/screenshots/final_product_insight_4.png)
 
 </details>
 
