@@ -1,0 +1,8 @@
+[theme]
+base="dark"
+
+primaryColor="#C084FC"        # light purple buttons
+backgroundColor="#0F0A1E"     # dark purple background
+secondaryBackgroundColor="#1B1234"
+textColor="#F5F3FF"
+font="sans serif"

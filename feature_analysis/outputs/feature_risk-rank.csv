@@ -1,0 +1,41 @@
+,feature_name,rank_churn,rank_usage,rank_errors,rank_tickets,rank_satisfaction,Risk_Rank,Risk_Bucket
+0,feature_32,11,6,29,2,4,10.4,Critical
+1,feature_8,19,3,6,19,7,10.8,Critical
+2,feature_4,1,22,36,1,19,15.8,High Risk
+3,feature_33,27,17,3,31,1,15.8,High Risk
+4,feature_15,16,12,10,13,29,16.0,High Risk
+5,feature_37,3,13,22,4,39,16.2,High Risk
+6,feature_30,8,26,24,14,9,16.2,High Risk
+7,feature_12,6,25,32,10,10,16.6,High Risk
+8,feature_13,23,30,16,9,6,16.8,High Risk
+9,feature_21,29,2,20,30,3,16.8,High Risk
+10,feature_23,30,18,2,26,11,17.4,High Risk
+11,feature_6,7,29,5,6,40,17.4,High Risk
+12,feature_38,17,16,14,20,21,17.6,High Risk
+13,feature_11,13,5,33,15,25,18.2,Medium Risk
+14,feature_35,9,24,7,18,35,18.6,Medium Risk
+15,feature_29,12,21,18,7,37,19.0,Medium Risk
+16,feature_22,24,11,21,23,17,19.2,Medium Risk
+17,feature_10,4,35,30,5,23,19.4,Medium Risk
+18,feature_2,2,19,34,16,26,19.4,Medium Risk
+19,feature_16,37,4,12,39,5,19.4,Medium Risk
+20,feature_40,14,34,23,12,14,19.4,Medium Risk
+21,feature_14,26,15,15,24,20,20.0,Medium Risk
+22,feature_1,10,37,35,3,18,20.6,Medium Risk
+23,feature_28,21,23,26,21,13,20.8,Medium Risk
+24,feature_19,18,14,17,25,33,21.4,Medium Risk
+25,feature_18,28,10,13,29,28,21.6,Medium Risk
+26,feature_20,15,38,39,8,8,21.6,Medium Risk
+27,feature_5,32,28,1,35,12,21.6,Medium Risk
+28,feature_7,36,9,9,37,27,23.6,Low Risk
+29,feature_17,38,32,11,36,2,23.8,Low Risk
+30,feature_36,5,36,40,11,31,24.6,Low Risk
+31,feature_34,33,20,38,17,15,24.6,Low Risk
+32,feature_26,34,8,27,34,22,25.0,Low Risk
+33,feature_25,25,7,37,32,24,25.0,Low Risk
+34,feature_24,35,1,25,28,36,25.0,Low Risk
+35,feature_31,20,40,8,33,34,27.0,Low Risk
+36,feature_3,39,39,4,38,16,27.2,Low Risk
+37,feature_9,22,33,28,27,30,28.0,Low Risk
+38,feature_39,31,27,31,22,38,29.8,Low Risk
+39,feature_27,40,31,19,40,32,32.4,No Risk

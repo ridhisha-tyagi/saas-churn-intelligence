@@ -1,0 +1,311 @@
+account_id,ticket_count,ticket_bucket,satisfaction_score,satisfaction_bucket,usage_duration_min,usage_bucket,error_count,error_bucket
+A-016043,3,Elevated,1.3333333333333333,Unhappy,74.93333333333334,engaged,15,High Errors
+A-019782,2,Stable,1.5,Unhappy,13.25,disengaged,0,No Errors
+A-029f69,2,Stable,1.5,Unhappy,17.2,disengaged,0,No Errors
+A-02cd81,3,Elevated,3.0,Neutral,41.61666666666667,stable usage,0,No Errors
+A-0354fe,4,Elevated,2.0,Unhappy,52.666666666666664,stable usage,0,No Errors
+A-054577,1,Stable,4.0,Satisfied,53.666666666666664,stable usage,0,No Errors
+A-05d3b3,6,High Risk,2.1666666666666665,Neutral,21.466666666666665,disengaged,0,No Errors
+A-0651a4,4,Elevated,2.0,Unhappy,44.0,stable usage,4,Low Errors
+A-068fc6,5,High Risk,2.6,Neutral,118.75,dependency stress,0,No Errors
+A-089363,3,Elevated,3.6666666666666665,Satisfied,70.53333333333333,engaged,3,Low Errors
+A-09540c,2,Stable,4.5,Very Satisfied,3.1666666666666665,disengaged,0,No Errors
+A-098560,2,Stable,3.0,Neutral,52.38333333333333,stable usage,4,Low Errors
+A-0a282f,3,Elevated,4.666666666666667,Very Satisfied,21.0,disengaged,0,No Errors
+A-0aaf6e,5,High Risk,1.6,Unhappy,4.8,disengaged,10,Medium Errors
+A-0b0d6d,5,High Risk,1.6,Unhappy,7.466666666666667,disengaged,0,No Errors
+A-0baac2,6,High Risk,2.1666666666666665,Neutral,8.05,disengaged,6,Medium Errors
+A-0be015,7,Critical,3.0,Neutral,35.06666666666667,inconsistent,0,No Errors
+A-0cc442,3,Elevated,1.0,Extremely Unhappy,89.8,dependency stress,0,No Errors
+A-0e966d,3,Elevated,3.0,Neutral,89.93333333333334,dependency stress,9,Medium Errors
+A-0f3e88,3,Elevated,3.0,Neutral,64.86666666666666,engaged,6,Medium Errors
+A-0f7d77,5,High Risk,2.0,Unhappy,72.26666666666667,engaged,0,No Errors
+A-104f1a,5,High Risk,3.0,Neutral,20.066666666666666,disengaged,0,No Errors
+A-10b8da,3,Elevated,2.3333333333333335,Neutral,49.6,stable usage,0,No Errors
+A-117171,6,High Risk,1.8333333333333333,Unhappy,60.86666666666667,engaged,0,No Errors
+A-118d55,5,High Risk,2.6,Neutral,39.5,inconsistent,0,No Errors
+A-118f1c,1,Stable,3.0,Neutral,93.8,dependency stress,0,No Errors
+A-13466a,3,Elevated,4.333333333333333,Very Satisfied,24.966666666666665,disengaged,0,No Errors
+A-139c3b,9,Severe Critical,2.0,Unhappy,46.8,stable usage,0,No Errors
+A-157070,3,Elevated,1.0,Extremely Unhappy,10.949999999999998,disengaged,0,No Errors
+A-158f4e,5,High Risk,2.6,Neutral,20.9,disengaged,0,No Errors
+A-17939a,7,Critical,2.5714285714285716,Neutral,5.2,disengaged,0,No Errors
+A-180abf,3,Elevated,1.0,Extremely Unhappy,121.8,dependency stress,0,No Errors
+A-186a44,7,Critical,2.0,Unhappy,110.36666666666666,dependency stress,7,Medium Errors
+A-18793f,5,High Risk,3.8,Satisfied,27.583333333333332,inconsistent,0,No Errors
+A-1b707d,3,Elevated,0.0,Extremely Unhappy,49.31666666666667,stable usage,3,Low Errors
+A-1b7577,5,High Risk,3.2,Satisfied,85.4,dependency stress,10,Medium Errors
+A-1b9609,4,Elevated,0.75,Extremely Unhappy,110.5,dependency stress,12,High Errors
+A-1e50e0,2,Stable,2.5,Neutral,85.5,dependency stress,0,No Errors
+A-1e6fc3,5,High Risk,2.2,Neutral,22.05,disengaged,0,No Errors
+A-1f0636,2,Stable,3.5,Satisfied,76.48333333333333,engaged,0,No Errors
+A-1f559b,5,High Risk,4.2,Very Satisfied,28.5,inconsistent,0,No Errors
+A-202b67,4,Elevated,3.5,Satisfied,1.7333333333333334,disengaged,4,Low Errors
+A-22d9d2,6,High Risk,2.6666666666666665,Neutral,46.79999999999999,stable usage,0,No Errors
+A-2922b6,2,Stable,2.0,Unhappy,22.4,disengaged,0,No Errors
+A-2bc93d,2,Stable,4.5,Very Satisfied,77.83333333333333,engaged,0,No Errors
+A-2d1036,5,High Risk,4.6,Very Satisfied,48.53333333333333,stable usage,0,No Errors
+A-2e3bad,5,High Risk,1.4,Unhappy,28.6,inconsistent,0,No Errors
+A-2ebb4b,2,Stable,3.0,Neutral,7.816666666666666,disengaged,0,No Errors
+A-2edab2,4,Elevated,0.75,Extremely Unhappy,44.93333333333333,stable usage,12,High Errors
+A-2f6a32,2,Stable,3.5,Satisfied,65.45,engaged,0,No Errors
+A-309e54,5,High Risk,0.6,Extremely Unhappy,13.333333333333334,disengaged,0,No Errors
+A-32728c,2,Stable,3.5,Satisfied,29.883333333333333,inconsistent,0,No Errors
+A-328bd0,5,High Risk,2.2,Neutral,34.3,inconsistent,5,Low Errors
+A-32fb14,5,High Risk,1.8,Unhappy,20.0,disengaged,0,No Errors
+A-331424,2,Stable,0.0,Extremely Unhappy,101.01666666666667,dependency stress,8,Medium Errors
+A-34d880,5,High Risk,3.0,Neutral,97.71666666666667,dependency stress,0,No Errors
+A-34ea2f,8,Critical,2.375,Neutral,67.5,engaged,0,No Errors
+A-35083d,4,Elevated,3.75,Satisfied,27.15,inconsistent,12,High Errors
+A-378b99,6,High Risk,3.0,Neutral,116.59999999999998,dependency stress,6,Medium Errors
+A-3793ee,4,Elevated,1.0,Extremely Unhappy,29.7,inconsistent,0,No Errors
+A-3932db,6,High Risk,2.1666666666666665,Neutral,28.5,inconsistent,0,No Errors
+A-39b19f,6,High Risk,2.8333333333333335,Neutral,30.5,inconsistent,6,Medium Errors
+A-39ddf4,5,High Risk,3.4,Satisfied,20.5,disengaged,0,No Errors
+A-3a7284,3,Elevated,2.3333333333333335,Neutral,59.20000000000001,stable usage,3,Low Errors
+A-3b37d9,5,High Risk,1.8,Unhappy,23.466666666666665,disengaged,0,No Errors
+A-3be56b,4,Elevated,3.5,Satisfied,64.8,engaged,0,No Errors
+A-3c1a3f,4,Elevated,1.75,Unhappy,144.5,dependency stress,4,Low Errors
+A-3d957b,3,Elevated,1.0,Extremely Unhappy,47.73333333333333,stable usage,6,Medium Errors
+A-40a557,7,Critical,1.5714285714285714,Unhappy,33.4,inconsistent,0,No Errors
+A-40de06,3,Elevated,1.3333333333333333,Unhappy,12.15,disengaged,0,No Errors
+A-410e86,5,High Risk,1.4,Unhappy,99.18333333333334,dependency stress,5,Low Errors
+A-417d2f,6,High Risk,2.1666666666666665,Neutral,59.70000000000001,stable usage,0,No Errors
+A-425e76,5,High Risk,2.0,Unhappy,6.9,disengaged,5,Low Errors
+A-427b69,2,Stable,1.5,Unhappy,49.5,stable usage,6,Medium Errors
+A-42b791,3,Elevated,2.6666666666666665,Neutral,50.166666666666664,stable usage,3,Low Errors
+A-42e5e1,3,Elevated,4.0,Satisfied,59.86666666666667,stable usage,3,Low Errors
+A-432483,1,Stable,0.0,Extremely Unhappy,28.65,inconsistent,0,No Errors
+A-439b2f,3,Elevated,0.0,Extremely Unhappy,42.666666666666664,stable usage,0,No Errors
+A-4437e4,6,High Risk,1.0,Extremely Unhappy,23.833333333333332,disengaged,0,No Errors
+A-443b7c,8,Critical,2.75,Neutral,29.25,inconsistent,0,No Errors
+A-443f6f,4,Elevated,3.5,Satisfied,136.25,dependency stress,0,No Errors
+A-45ce7a,5,High Risk,2.2,Neutral,76.76666666666667,engaged,0,No Errors
+A-462d45,4,Elevated,1.0,Extremely Unhappy,38.93333333333333,inconsistent,0,No Errors
+A-474ad4,3,Elevated,1.6666666666666667,Unhappy,36.9,inconsistent,12,High Errors
+A-4814a3,4,Elevated,1.0,Extremely Unhappy,79.06666666666666,engaged,0,No Errors
+A-484819,5,High Risk,1.8,Unhappy,82.13333333333334,dependency stress,0,No Errors
+A-4a267b,4,Elevated,3.25,Satisfied,105.4,dependency stress,4,Low Errors
+A-4a4c2d,5,High Risk,3.4,Satisfied,91.6,dependency stress,5,Low Errors
+A-4ae22a,3,Elevated,1.0,Extremely Unhappy,107.25,dependency stress,9,Medium Errors
+A-4bfa33,4,Elevated,2.75,Neutral,8.05,disengaged,4,Low Errors
+A-4c38bc,3,Elevated,2.3333333333333335,Neutral,86.66666666666667,dependency stress,0,No Errors
+A-4c56c9,5,High Risk,3.0,Neutral,26.833333333333332,inconsistent,0,No Errors
+A-4e44e8,3,Elevated,3.3333333333333335,Satisfied,59.20000000000001,stable usage,0,No Errors
+A-4ef964,3,Elevated,2.6666666666666665,Neutral,4.8,disengaged,0,No Errors
+A-4f18f0,5,High Risk,3.2,Satisfied,54.15,stable usage,0,No Errors
+A-50bb9f,7,Critical,1.7142857142857142,Unhappy,105.95,dependency stress,7,Medium Errors
+A-51ec1b,3,Elevated,3.3333333333333335,Satisfied,36.833333333333336,inconsistent,0,No Errors
+A-5247b3,5,High Risk,2.4,Neutral,59.833333333333336,stable usage,0,No Errors
+A-526d93,5,High Risk,1.4,Unhappy,38.7,inconsistent,0,No Errors
+A-533452,4,Elevated,2.0,Unhappy,26.0,inconsistent,0,No Errors
+A-53f4e3,5,High Risk,2.4,Neutral,4.4,disengaged,0,No Errors
+A-54d94a,4,Elevated,1.75,Unhappy,57.86666666666667,stable usage,0,No Errors
+A-558c72,4,Elevated,2.25,Neutral,3.5,disengaged,4,Low Errors
+A-560d27,4,Elevated,2.75,Neutral,15.166666666666666,disengaged,0,No Errors
+A-56962b,4,Elevated,0.75,Extremely Unhappy,76.66666666666667,engaged,0,No Errors
+A-5790f4,4,Elevated,1.0,Extremely Unhappy,141.5,dependency stress,4,Low Errors
+A-58b9ff,2,Stable,2.0,Unhappy,49.65,stable usage,0,No Errors
+A-592832,3,Elevated,1.6666666666666667,Unhappy,13.4,disengaged,0,No Errors
+A-5a184f,3,Elevated,4.333333333333333,Very Satisfied,29.7,inconsistent,0,No Errors
+A-5a215a,4,Elevated,3.0,Neutral,107.25,dependency stress,4,Low Errors
+A-5a3eb9,3,Elevated,0.0,Extremely Unhappy,5.833333333333333,disengaged,3,Low Errors
+A-5a92e7,7,Critical,3.142857142857143,Satisfied,28.35,inconsistent,7,Medium Errors
+A-5b051a,1,Stable,3.0,Neutral,82.35,dependency stress,0,No Errors
+A-5b1bcd,4,Elevated,2.25,Neutral,58.65,stable usage,0,No Errors
+A-5b4ebb,5,High Risk,3.8,Satisfied,10.1,disengaged,0,No Errors
+A-5c9849,4,Elevated,0.0,Extremely Unhappy,73.16666666666667,engaged,0,No Errors
+A-600734,7,Critical,1.5714285714285714,Unhappy,25.73333333333333,inconsistent,0,No Errors
+A-625d0b,5,High Risk,0.6,Extremely Unhappy,67.43333333333334,engaged,0,No Errors
+A-65a46c,8,Critical,2.5,Neutral,8.866666666666667,disengaged,0,No Errors
+A-65aeb5,2,Stable,2.5,Neutral,105.6,dependency stress,0,No Errors
+A-65c341,5,High Risk,0.8,Extremely Unhappy,43.0,stable usage,0,No Errors
+A-66224b,6,High Risk,3.5,Satisfied,61.78333333333333,engaged,0,No Errors
+A-67be94,5,High Risk,1.6,Unhappy,32.55,inconsistent,5,Low Errors
+A-684255,4,Elevated,3.5,Satisfied,52.5,stable usage,0,No Errors
+A-68f37c,5,High Risk,0.8,Extremely Unhappy,124.8,dependency stress,0,No Errors
+A-692f18,2,Stable,2.5,Neutral,33.3,inconsistent,0,No Errors
+A-69b156,7,Critical,2.2857142857142856,Neutral,22.333333333333332,disengaged,0,No Errors
+A-69fad4,4,Elevated,2.75,Neutral,65.45,engaged,0,No Errors
+A-6a4e2d,2,Stable,4.5,Very Satisfied,55.86666666666667,stable usage,0,No Errors
+A-6a7c9d,3,Elevated,2.6666666666666665,Neutral,22.133333333333336,disengaged,3,Low Errors
+A-6c093d,3,Elevated,1.6666666666666667,Unhappy,36.75,inconsistent,6,Medium Errors
+A-6da850,5,High Risk,0.8,Extremely Unhappy,8.983333333333333,disengaged,0,No Errors
+A-6dee43,5,High Risk,2.6,Neutral,21.066666666666666,disengaged,10,Medium Errors
+A-6e7827,2,Stable,3.5,Satisfied,20.766666666666666,disengaged,0,No Errors
+A-6f8ad2,4,Elevated,3.25,Satisfied,97.93333333333334,dependency stress,4,Low Errors
+A-700ade,4,Elevated,3.5,Satisfied,87.45,dependency stress,12,High Errors
+A-702032,4,Elevated,1.5,Unhappy,46.583333333333336,stable usage,0,No Errors
+A-712426,6,High Risk,3.6666666666666665,Satisfied,19.6,disengaged,0,No Errors
+A-712f1c,6,High Risk,2.6666666666666665,Neutral,42.233333333333334,stable usage,0,No Errors
+A-726cfa,3,Elevated,2.6666666666666665,Neutral,86.66666666666667,dependency stress,0,No Errors
+A-72799b,2,Stable,4.5,Very Satisfied,30.266666666666666,inconsistent,0,No Errors
+A-76fa4d,5,High Risk,3.6,Satisfied,115.2,dependency stress,5,Low Errors
+A-779e4e,5,High Risk,3.2,Satisfied,1.3333333333333333,disengaged,0,No Errors
+A-781cc0,4,Elevated,2.75,Neutral,51.333333333333336,stable usage,0,No Errors
+A-7988d1,3,Elevated,4.333333333333333,Very Satisfied,81.5,dependency stress,0,No Errors
+A-798a3f,5,High Risk,2.4,Neutral,25.35,inconsistent,0,No Errors
+A-7c4956,3,Elevated,1.3333333333333333,Unhappy,65.68333333333334,engaged,3,Low Errors
+A-7c6b6b,5,High Risk,2.6,Neutral,77.35,engaged,10,Medium Errors
+A-7c83a1,4,Elevated,4.0,Satisfied,15.6,disengaged,4,Low Errors
+A-7d514c,3,Elevated,1.6666666666666667,Unhappy,18.15,disengaged,0,No Errors
+A-7da956,3,Elevated,1.6666666666666667,Unhappy,61.04999999999999,engaged,9,Medium Errors
+A-7df7a7,3,Elevated,4.0,Satisfied,64.0,engaged,0,No Errors
+A-7f29a7,1,Stable,4.0,Satisfied,41.6,stable usage,0,No Errors
+A-7f4db3,5,High Risk,2.6,Neutral,58.0,stable usage,0,No Errors
+A-7f6b86,7,Critical,1.5714285714285714,Unhappy,74.93333333333332,engaged,0,No Errors
+A-80eeb6,4,Elevated,2.75,Neutral,41.38333333333333,stable usage,0,No Errors
+A-8145a0,6,High Risk,2.0,Unhappy,16.2,disengaged,0,No Errors
+A-82861f,5,High Risk,3.2,Satisfied,30.2,inconsistent,0,No Errors
+A-82d8a6,5,High Risk,1.4,Unhappy,10.65,disengaged,0,No Errors
+A-84ebe4,4,Elevated,2.0,Unhappy,41.18333333333333,stable usage,0,No Errors
+A-854864,5,High Risk,4.8,Very Satisfied,119.93333333333335,dependency stress,0,No Errors
+A-86902e,9,Severe Critical,1.5555555555555556,Unhappy,11.2,disengaged,0,No Errors
+A-86cdb4,5,High Risk,2.6,Neutral,133.23333333333332,dependency stress,0,No Errors
+A-86fc1d,5,High Risk,1.6,Unhappy,31.866666666666667,inconsistent,10,Medium Errors
+A-883b7d,7,Critical,2.5714285714285716,Neutral,78.13333333333334,engaged,0,No Errors
+A-89ee83,5,High Risk,2.4,Neutral,13.01666666666667,disengaged,5,Low Errors
+A-8adedc,4,Elevated,1.0,Extremely Unhappy,31.333333333333332,inconsistent,0,No Errors
+A-8ae05d,1,Stable,4.0,Satisfied,25.2,inconsistent,0,No Errors
+A-8b0451,7,Critical,2.0,Unhappy,116.56666666666668,dependency stress,0,No Errors
+A-8b25f2,2,Stable,4.0,Satisfied,70.4,engaged,0,No Errors
+A-8bde0c,3,Elevated,2.6666666666666665,Neutral,28.333333333333332,inconsistent,0,No Errors
+A-8e47ca,5,High Risk,1.6,Unhappy,129.26666666666668,dependency stress,0,No Errors
+A-8ed5dd,6,High Risk,2.5,Neutral,12.566666666666668,disengaged,24,Severe Errors
+A-9077b0,3,Elevated,4.333333333333333,Very Satisfied,20.2,disengaged,0,No Errors
+A-9174e0,2,Stable,2.5,Neutral,4.766666666666667,disengaged,0,No Errors
+A-9208f0,8,Critical,1.25,Unhappy,2.5,disengaged,8,Medium Errors
+A-922109,3,Elevated,1.0,Extremely Unhappy,31.899999999999995,inconsistent,6,Medium Errors
+A-9289f6,6,High Risk,2.1666666666666665,Neutral,48.93333333333333,stable usage,0,No Errors
+A-94d3da,6,High Risk,2.3333333333333335,Neutral,24.166666666666668,disengaged,0,No Errors
+A-94f8c9,3,Elevated,3.3333333333333335,Satisfied,38.56666666666667,inconsistent,3,Low Errors
+A-956988,2,Stable,1.5,Unhappy,81.2,dependency stress,6,Medium Errors
+A-96e141,5,High Risk,2.6,Neutral,18.266666666666666,disengaged,0,No Errors
+A-970c97,1,Stable,5.0,Very Satisfied,68.5,engaged,0,No Errors
+A-977ca0,3,Elevated,1.3333333333333333,Unhappy,10.800000000000002,disengaged,0,No Errors
+A-993085,4,Elevated,1.75,Unhappy,6.45,disengaged,0,No Errors
+A-9affe6,3,Elevated,1.0,Extremely Unhappy,43.95000000000001,stable usage,0,No Errors
+A-9b9fe9,4,Elevated,3.0,Neutral,63.6,engaged,0,No Errors
+A-9badbd,5,High Risk,2.0,Unhappy,22.316666666666666,disengaged,0,No Errors
+A-9bfc9f,6,High Risk,1.6666666666666667,Unhappy,9.6,disengaged,6,Medium Errors
+A-9c18c4,4,Elevated,2.0,Unhappy,2.3,disengaged,0,No Errors
+A-9ee962,3,Elevated,1.3333333333333333,Unhappy,54.6,stable usage,0,No Errors
+A-9f9299,5,High Risk,1.0,Extremely Unhappy,9.75,disengaged,0,No Errors
+A-a09355,5,High Risk,2.4,Neutral,58.93333333333332,stable usage,0,No Errors
+A-a1b80b,4,Elevated,3.0,Neutral,44.666666666666664,stable usage,0,No Errors
+A-a1bbb6,3,Elevated,1.3333333333333333,Unhappy,67.2,engaged,0,No Errors
+A-a33200,3,Elevated,3.0,Neutral,4.766666666666667,disengaged,0,No Errors
+A-a45270,4,Elevated,2.0,Unhappy,89.55,dependency stress,0,No Errors
+A-a6d261,4,Elevated,3.5,Satisfied,45.96666666666667,stable usage,0,No Errors
+A-a7bd4b,6,High Risk,2.1666666666666665,Neutral,14.933333333333332,disengaged,0,No Errors
+A-aa9511,2,Stable,2.0,Unhappy,32.333333333333336,inconsistent,0,No Errors
+A-ab438f,2,Stable,3.5,Satisfied,84.8,dependency stress,0,No Errors
+A-ac14bb,2,Stable,2.0,Unhappy,65.83333333333333,engaged,0,No Errors
+A-ac85cd,3,Elevated,2.3333333333333335,Neutral,18.55,disengaged,3,Low Errors
+A-ac9111,3,Elevated,1.6666666666666667,Unhappy,89.84999999999998,dependency stress,12,High Errors
+A-ad296b,3,Elevated,3.6666666666666665,Satisfied,17.266666666666666,disengaged,0,No Errors
+A-ad3abd,3,Elevated,2.0,Unhappy,103.95,dependency stress,9,Medium Errors
+A-ad64c6,4,Elevated,1.25,Unhappy,116.2,dependency stress,12,High Errors
+A-adc1f3,3,Elevated,2.3333333333333335,Neutral,102.11666666666666,dependency stress,0,No Errors
+A-ae052e,4,Elevated,2.0,Unhappy,58.1,stable usage,0,No Errors
+A-af0cd2,3,Elevated,0.0,Extremely Unhappy,16.1,disengaged,3,Low Errors
+A-afa505,4,Elevated,1.5,Unhappy,24.833333333333332,disengaged,0,No Errors
+A-b07b56,4,Elevated,0.75,Extremely Unhappy,58.483333333333334,stable usage,8,Medium Errors
+A-b11cd0,4,Elevated,2.0,Unhappy,14.25,disengaged,0,No Errors
+A-b30291,1,Stable,0.0,Extremely Unhappy,125.25,dependency stress,1,Low Errors
+A-b3fe05,4,Elevated,1.5,Unhappy,65.0,engaged,0,No Errors
+A-b44e3e,3,Elevated,4.333333333333333,Very Satisfied,45.75,stable usage,0,No Errors
+A-b7724f,3,Elevated,2.0,Unhappy,18.7,disengaged,0,No Errors
+A-b7ef83,2,Stable,2.0,Unhappy,38.733333333333334,inconsistent,2,Low Errors
+A-b9f5b1,6,High Risk,3.3333333333333335,Satisfied,35.75,inconsistent,0,No Errors
+A-bb1486,3,Elevated,1.0,Extremely Unhappy,34.06666666666667,inconsistent,0,No Errors
+A-bb2f49,3,Elevated,2.6666666666666665,Neutral,34.65,inconsistent,3,Low Errors
+A-bbc346,3,Elevated,3.0,Neutral,102.59999999999998,dependency stress,0,No Errors
+A-bc87bc,7,Critical,2.142857142857143,Neutral,62.333333333333336,engaged,0,No Errors
+A-bcf664,5,High Risk,2.4,Neutral,75.25,engaged,0,No Errors
+A-bcf87c,2,Stable,4.0,Satisfied,29.25,inconsistent,0,No Errors
+A-bd4513,3,Elevated,4.666666666666667,Very Satisfied,100.09999999999998,dependency stress,0,No Errors
+A-bf7919,2,Stable,2.5,Neutral,81.06666666666666,dependency stress,0,No Errors
+A-c16b88,3,Elevated,1.0,Extremely Unhappy,48.666666666666664,stable usage,0,No Errors
+A-c16cf7,3,Elevated,2.3333333333333335,Neutral,53.53333333333333,stable usage,0,No Errors
+A-c1dfe1,3,Elevated,1.3333333333333333,Unhappy,19.733333333333334,disengaged,0,No Errors
+A-c1e51e,5,High Risk,3.2,Satisfied,27.75,inconsistent,0,No Errors
+A-c222ab,4,Elevated,1.25,Unhappy,37.8,inconsistent,0,No Errors
+A-c37601,4,Elevated,2.75,Neutral,97.6,dependency stress,0,No Errors
+A-c37cab,4,Elevated,3.75,Satisfied,35.55,inconsistent,0,No Errors
+A-c42f1f,9,Severe Critical,2.2222222222222223,Neutral,0.8999999999999999,disengaged,0,No Errors
+A-c43359,3,Elevated,1.3333333333333333,Unhappy,38.733333333333334,inconsistent,0,No Errors
+A-c45b23,3,Elevated,1.0,Extremely Unhappy,70.03333333333333,engaged,3,Low Errors
+A-c608c8,2,Stable,1.5,Unhappy,102.6,dependency stress,2,Low Errors
+A-c9bb3e,7,Critical,3.0,Neutral,139.76666666666668,dependency stress,0,No Errors
+A-cab532,1,Stable,4.0,Satisfied,26.216666666666665,inconsistent,0,No Errors
+A-cb5333,4,Elevated,0.75,Extremely Unhappy,96.06666666666666,dependency stress,0,No Errors
+A-cbbe12,6,High Risk,2.8333333333333335,Neutral,25.5,inconsistent,0,No Errors
+A-cc102e,4,Elevated,3.25,Satisfied,7.0,disengaged,0,No Errors
+A-cc8c8f,2,Stable,3.5,Satisfied,35.4,inconsistent,2,Low Errors
+A-cc98bc,3,Elevated,1.3333333333333333,Unhappy,121.98333333333333,dependency stress,0,No Errors
+A-ccabf0,4,Elevated,2.75,Neutral,99.33333333333333,dependency stress,0,No Errors
+A-ccb686,1,Stable,4.0,Satisfied,17.6,disengaged,0,No Errors
+A-ccc747,4,Elevated,1.25,Unhappy,29.633333333333333,inconsistent,0,No Errors
+A-cd458b,5,High Risk,4.6,Very Satisfied,73.83333333333333,engaged,0,No Errors
+A-cdf020,4,Elevated,3.0,Neutral,107.43333333333334,dependency stress,0,No Errors
+A-ce550d,7,Critical,2.7142857142857144,Neutral,87.45,dependency stress,0,No Errors
+A-ced9aa,7,Critical,0.42857142857142855,Extremely Unhappy,30.133333333333333,inconsistent,0,No Errors
+A-d26ab4,2,Stable,2.0,Unhappy,21.266666666666666,disengaged,4,Low Errors
+A-d27f50,4,Elevated,3.75,Satisfied,3.966666666666667,disengaged,0,No Errors
+A-d42431,4,Elevated,2.0,Unhappy,19.6,disengaged,0,No Errors
+A-d4ac0e,4,Elevated,1.75,Unhappy,48.45,stable usage,12,High Errors
+A-d4e0d4,4,Elevated,2.0,Unhappy,10.933333333333334,disengaged,4,Low Errors
+A-d77f4c,2,Stable,4.0,Satisfied,65.33333333333333,engaged,4,Low Errors
+A-d792a6,5,High Risk,1.6,Unhappy,38.5,inconsistent,10,Medium Errors
+A-d82ef9,5,High Risk,3.4,Satisfied,70.2,engaged,0,No Errors
+A-d922bf,7,Critical,1.4285714285714286,Unhappy,45.86666666666667,stable usage,0,No Errors
+A-db5e9e,2,Stable,5.0,Very Satisfied,118.76666666666667,dependency stress,6,Medium Errors
+A-dbc825,6,High Risk,1.3333333333333333,Unhappy,69.46666666666667,engaged,0,No Errors
+A-dcc2f0,2,Stable,0.0,Extremely Unhappy,33.15,inconsistent,2,Low Errors
+A-de24d5,7,Critical,0.8571428571428571,Extremely Unhappy,19.2,disengaged,0,No Errors
+A-de58ca,5,High Risk,2.0,Unhappy,9.0,disengaged,10,Medium Errors
+A-dec005,2,Stable,1.5,Unhappy,12.083333333333334,disengaged,0,No Errors
+A-df10db,2,Stable,3.0,Neutral,12.716666666666667,disengaged,0,No Errors
+A-df1e44,2,Stable,2.5,Neutral,27.866666666666667,inconsistent,2,Low Errors
+A-e08cd3,8,Critical,2.0,Unhappy,60.53333333333333,engaged,0,No Errors
+A-e1b9cd,1,Stable,3.0,Neutral,17.0,disengaged,0,No Errors
+A-e351e1,4,Elevated,3.75,Satisfied,45.3,stable usage,4,Low Errors
+A-e36807,2,Stable,4.5,Very Satisfied,69.6,engaged,0,No Errors
+A-e3bd71,4,Elevated,2.0,Unhappy,74.26666666666667,engaged,0,No Errors
+A-e40f45,7,Critical,1.8571428571428572,Unhappy,53.86666666666667,stable usage,28,Severe Errors
+A-e4bf56,8,Critical,2.75,Neutral,109.85,dependency stress,0,No Errors
+A-e51ec7,3,Elevated,1.6666666666666667,Unhappy,11.0,disengaged,6,Medium Errors
+A-e5d6ab,3,Elevated,0.0,Extremely Unhappy,10.083333333333334,disengaged,3,Low Errors
+A-e60f9d,2,Stable,0.0,Extremely Unhappy,62.61666666666667,engaged,2,Low Errors
+A-e693b6,1,Stable,3.0,Neutral,17.733333333333334,disengaged,3,Low Errors
+A-e7a1e2,1,Stable,4.0,Satisfied,55.55,stable usage,2,Low Errors
+A-e7beab,6,High Risk,2.6666666666666665,Neutral,120.68333333333334,dependency stress,12,High Errors
+A-e888d1,5,High Risk,2.4,Neutral,37.65,inconsistent,10,Medium Errors
+A-e89151,2,Stable,2.5,Neutral,42.583333333333336,stable usage,0,No Errors
+A-e98302,9,Severe Critical,3.2222222222222223,Satisfied,32.5,inconsistent,0,No Errors
+A-eb1312,1,Stable,5.0,Very Satisfied,5.066666666666666,disengaged,0,No Errors
+A-eb2fdc,5,High Risk,3.6,Satisfied,8.25,disengaged,5,Low Errors
+A-eb7c38,5,High Risk,2.6,Neutral,44.75,stable usage,0,No Errors
+A-eb7fac,4,Elevated,1.0,Extremely Unhappy,120.16666666666667,dependency stress,0,No Errors
+A-ed510f,9,Severe Critical,1.7777777777777777,Unhappy,19.6,disengaged,0,No Errors
+A-ef84cf,5,High Risk,2.6,Neutral,99.16666666666667,dependency stress,0,No Errors
+A-f17767,3,Elevated,2.6666666666666665,Neutral,41.8,stable usage,0,No Errors
+A-f19409,3,Elevated,1.3333333333333333,Unhappy,121.33333333333333,dependency stress,0,No Errors
+A-f3ff05,3,Elevated,2.3333333333333335,Neutral,72.4,engaged,0,No Errors
+A-f44180,2,Stable,5.0,Very Satisfied,88.25,dependency stress,2,Low Errors
+A-f446b6,8,Critical,2.125,Neutral,14.6,disengaged,32,Severe Errors
+A-f45426,3,Elevated,1.3333333333333333,Unhappy,1.5166666666666666,disengaged,0,No Errors
+A-f51f16,4,Elevated,1.5,Unhappy,97.4,dependency stress,20,High Errors
+A-f5641b,4,Elevated,1.5,Unhappy,81.95,dependency stress,4,Low Errors
+A-f6b2fb,5,High Risk,2.4,Neutral,34.2,inconsistent,10,Medium Errors
+A-f9cc74,6,High Risk,3.3333333333333335,Satisfied,6.466666666666666,disengaged,0,No Errors
+A-faa28c,4,Elevated,3.5,Satisfied,81.9,dependency stress,0,No Errors
+A-fabe19,3,Elevated,1.3333333333333333,Unhappy,76.16666666666667,engaged,0,No Errors
+A-fd7ad3,8,Critical,3.125,Satisfied,36.2,inconsistent,16,High Errors
+A-fd9422,6,High Risk,3.5,Satisfied,89.48333333333333,dependency stress,0,No Errors
+A-fdfc91,5,High Risk,2.2,Neutral,59.166666666666664,stable usage,0,No Errors
+A-fe79a5,4,Elevated,2.5,Neutral,73.2,engaged,0,No Errors
+A-ff3c73,2,Stable,3.5,Satisfied,19.433333333333334,disengaged,2,Low Errors
+A-ff79f2,2,Stable,0.0,Extremely Unhappy,5.9,disengaged,0,No Errors
+A-ffc04f,7,Critical,2.5714285714285716,Neutral,25.73333333333333,inconsistent,0,No Errors

@@ -1,0 +1,41 @@
+,feature_name,Risk_Rank,Risk_Bucket,Health_Rank,Health_Bucket,Final_Rank,Final_Bucket,Final_insights
+0,feature_32,10.4,Critical,17.0,Below Average,13.7,High Risk / Unhealthy,Immediate Action Needed
+1,feature_21,16.8,High Risk,13.8,Below Average,15.3,High Risk / Unhealthy,Immediate Action Needed
+2,feature_19,21.4,Medium Risk,10.8,Weak,16.1,High Risk / Unhealthy,Requires Fixes Soon
+3,feature_13,16.8,High Risk,15.6,Below Average,16.2,High Risk / Unhealthy,Immediate Action Needed
+4,feature_4,15.8,High Risk,16.6,Below Average,16.200000000000003,High Risk / Unhealthy,Immediate Action Needed
+5,feature_29,19.0,Medium Risk,14.8,Below Average,16.9,High Risk / Unhealthy,Requires Fixes Soon
+6,feature_2,19.4,Medium Risk,16.0,Below Average,17.7,High Risk / Unhealthy,Requires Fixes Soon
+7,feature_23,17.4,High Risk,18.2,Average,17.799999999999997,High Risk / Unhealthy,Investigate Root Causes
+8,feature_12,16.6,High Risk,19.2,Average,17.9,High Risk / Unhealthy,Investigate Root Causes
+9,feature_37,16.2,High Risk,20.4,Average,18.299999999999997,Medium / Average,Investigate Root Causes
+10,feature_15,16.0,High Risk,21.6,Average,18.8,Medium / Average,Investigate Root Causes
+11,feature_14,20.0,Medium Risk,18.0,Below Average,19.0,Medium / Average,Requires Fixes Soon
+12,feature_38,17.6,High Risk,20.4,Average,19.0,Medium / Average,Investigate Root Causes
+13,feature_10,19.4,Medium Risk,18.6,Average,19.0,Medium / Average,Moderate Priority
+14,feature_35,18.6,Medium Risk,20.4,Average,19.5,Medium / Average,Moderate Priority
+15,feature_30,16.2,High Risk,23.2,Healthy,19.7,Medium / Average,Investigate Root Causes
+16,feature_22,19.2,Medium Risk,20.4,Average,19.799999999999997,Medium / Average,Moderate Priority
+17,feature_36,24.6,Low Risk,15.0,Below Average,19.8,Medium / Average,Retention Issue — Monitor
+18,feature_16,19.4,Medium Risk,20.6,Average,20.0,Medium / Average,Moderate Priority
+19,feature_28,20.8,Medium Risk,19.8,Average,20.3,Medium / Average,Moderate Priority
+20,feature_17,23.8,Low Risk,17.0,Below Average,20.4,Medium / Average,Retention Issue — Monitor
+21,feature_33,15.8,High Risk,25.0,Healthy,20.4,Medium / Average,Investigate Root Causes
+22,feature_1,20.6,Medium Risk,21.2,Average,20.9,Medium / Average,Moderate Priority
+23,feature_5,21.6,Medium Risk,20.4,Average,21.0,Medium / Average,Moderate Priority
+24,feature_11,18.2,Medium Risk,24.4,Healthy,21.299999999999997,Medium / Average,Moderate Priority
+25,feature_34,24.6,Low Risk,18.0,Below Average,21.3,Medium / Average,Retention Issue — Monitor
+26,feature_26,25.0,Low Risk,18.4,Average,21.7,Medium / Average,Mixed — Needs Review
+27,feature_18,21.6,Medium Risk,21.8,Average,21.700000000000003,Medium / Average,Moderate Priority
+28,feature_8,10.8,Critical,32.6,Very Healthy,21.700000000000003,Medium / Average,Investigate Root Causes
+29,feature_25,25.0,Low Risk,18.8,Average,21.9,Medium / Average,Mixed — Needs Review
+30,feature_40,19.4,Medium Risk,25.0,Healthy,22.2,Low Risk / Healthy,Moderate Priority
+31,feature_6,17.4,High Risk,27.8,Healthy,22.6,Low Risk / Healthy,Investigate Root Causes
+32,feature_9,28.0,Low Risk,17.8,Below Average,22.9,Low Risk / Healthy,Retention Issue — Monitor
+33,feature_7,23.6,Low Risk,23.4,Healthy,23.5,Low Risk / Healthy,Stable / Good
+34,feature_3,27.2,Low Risk,21.2,Average,24.2,Low Risk / Healthy,Mixed — Needs Review
+35,feature_20,21.6,Medium Risk,26.8,Healthy,24.200000000000003,Low Risk / Healthy,Moderate Priority
+36,feature_31,27.0,Low Risk,22.4,Healthy,24.7,Low Risk / Healthy,Stable / Good
+37,feature_39,29.8,Low Risk,22.2,Healthy,26.0,Low Risk / Healthy,Stable / Good
+38,feature_24,25.0,Low Risk,29.8,Healthy,27.4,Low Risk / Healthy,Stable / Good
+39,feature_27,32.4,No Risk,25.6,Healthy,29.0,Low Risk / Healthy,Stable / Good
