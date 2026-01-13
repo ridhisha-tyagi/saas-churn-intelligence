@@ -31,7 +31,7 @@ def home_view():
             margin-bottom: 0.6rem;
             color: #F5F3FF;
         ">
-        🧠 SaaS Churn Intelligence
+         SaaS Churn Intelligence
         </h1>
 
         <p style="
