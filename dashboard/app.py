@@ -104,9 +104,11 @@ elif st.session_state.view == "churn_prediction":
 
 import os
 import pandas as pd
+from pathlib import Path
 
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-DATA_PATH = os.path.join(BASE_DIR, "data", "feature_insights.csv")
+BASE_DIR = Path(__file__).resolve().parent
+DATA_PATH = BASE_DIR / "data" / "feature_insights.csv"
+
 
 df = pd.read_csv(DATA_PATH)
 df.columns = (
