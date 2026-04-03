@@ -1,10 +1,11 @@
 import pandas as pd
 import streamlit as st
+from utils.data_loader import load_data
 
 def feature_detail_view():
     st.title("📌 Feature Health Card")
 
-    df = pd.read_csv("data/feature_insights.csv")
+    df = load_data("feature_insights.csv")
     df.columns = df.columns.str.strip().str.lower()
 
     insight = st.session_state.get("selected_insight")
