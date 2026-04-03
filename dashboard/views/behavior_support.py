@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
+from utils.data_loader import load_data
 
 
 def behavior_support_view():
@@ -10,9 +11,8 @@ def behavior_support_view():
     # ======================
     # LOAD DATA
     # ======================
-    BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-    churn = pd.read_csv(os.path.join(BASE_DIR, "data", "churn.csv"))
-    retained = pd.read_csv(os.path.join(BASE_DIR, "data", "retained.csv"))
+    churn = load_data("churn.csv")
+    retained = load_data("retained.csv")
 
     churn.columns = churn.columns.str.lower().str.strip()
     retained.columns = retained.columns.str.lower().str.strip()

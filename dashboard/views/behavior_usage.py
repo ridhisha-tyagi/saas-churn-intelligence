@@ -1,13 +1,14 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+from utils.data_loader import load_data
 
 def behavior_usage_view():
     st.title("📊 Usage Behavior")
 
     # Load data
-    churn = pd.read_csv("data/churn.csv")
-    retained = pd.read_csv("data/retained.csv")
+    churn = load_data("churn.csv")
+    retained = load_data("retained.csv")
 
     # Normalize columns
     churn.columns = churn.columns.str.lower().str.strip()
