@@ -1,12 +1,13 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+from dashboard.utils.data_loader import load_data
 
 def behavior_satisfaction_view():
     st.title("😊 Satisfaction Behavior")
 
-    churn = pd.read_csv("data/churn.csv")
-    retained = pd.read_csv("data/retained.csv")
+    churn = load_data("churn.csv")
+    retained = load_data("retained.csv")
 
     # Clean column names
     churn.columns = churn.columns.str.lower().str.strip()
