@@ -1,10 +1,11 @@
 import pandas as pd
 import streamlit as st
+from utils.data_loader import load_data
 
 def feature_analysis_view():
     st.title("🔍 Feature Insights")
 
-    df = pd.read_csv("data/feature_insights.csv")
+    df = load_data("feature_insights.csv")
 
     df.columns = (
         df.columns
