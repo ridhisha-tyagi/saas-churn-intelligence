@@ -11,7 +11,7 @@ def behavior_errors_view():
     # LOAD DATA
     # ======================
     churn = load_data("churn.csv")
-    retained = load_data("retained.csv"))
+    retained = load_data("retained.csv")
 
     # Normalize columns
     churn.columns = churn.columns.str.lower().str.strip()
