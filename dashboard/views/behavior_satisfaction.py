@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from dashboard.utils.data_loader import load_data
+from utils.data_loader import load_data
 
 def behavior_satisfaction_view():
     st.title("😊 Satisfaction Behavior")
